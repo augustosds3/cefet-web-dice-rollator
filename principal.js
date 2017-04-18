@@ -12,3 +12,14 @@
 // #quantidadeD{4,6,8,10,12,20}: um ID para cada input[type=number] com a quantidade
 
 
+let dices = document.getElementsByTagName("input");
+let button = document.getElementById("rolar");
+
+
+button.addEventListener('click', function(evt){
+
+	for(let dc of dices){
+		dc.
+	}
+
+});
